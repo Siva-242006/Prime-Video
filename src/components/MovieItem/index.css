@@ -1,0 +1,62 @@
+.popup-content {
+  width: 90%;
+  height: fit-content;
+  border-radius: 10px;
+}
+
+.close-button-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.close-button {
+  background-color: transparent;
+  border: 0;
+  font-size: 25px;
+  cursor: pointer;
+  outline: none;
+}
+
+.player-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  margin-top: 0px;
+}
+
+@media screen and (min-width: 768px) {
+  .popup-content {
+    width: 50%;
+    height: fit-content;
+    border-radius: 15px;
+  }
+
+  .close-button {
+    font-size: 30px;
+  }
+
+  .player-container {
+    margin: 3vw;
+    margin-top: 0.5vw;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .popup-content {
+    width: 50%;
+    height: fit-content;
+    border-radius: 18px;
+  }
+
+  .close-button {
+    font-size: 40px;
+  }
+
+  .player-container {
+    margin: 2vw;
+    margin-top: 0.5vw;
+  }
+}
