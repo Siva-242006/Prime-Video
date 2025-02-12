@@ -1,8 +1,27 @@
-Prime Video:
+# Prime Video Clone
 
-to checkout visit "https://siva-242006.github.io/Prime-Video/"
+A responsive clone of the Prime Video interface built using **React**, **React Slick**, and **React Player**. This project showcases a dynamic movie slider and a popup video player for trailers.
 
-### Refer to the video below:
+![Prime Video Clone Demo](https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4)
+
+## Features
+
+- **Movie Sliders**: Display Action and Comedy movies using **React Slick**.
+- **Popup Video Player**: Play movie trailers in a popup using **React Player**.
+- **Responsive Design**: Optimized for large and extra-large screens.
+- **Interactive UI**: Next and previous buttons for seamless navigation.
+
+## Live Demo
+
+Check out the live demo of the project: [Prime Video Clone](https://siva-242006.github.io/Prime-Video/)
+
+## Technologies Used
+
+- **React**: Frontend library for building user interfaces.
+- **React Slick**: Carousel component for displaying movie sliders.
+- **React Player**: Component for playing video trailers.
+- **CSS**: Styling the components and layout.
+- **Git & GitHub**: Version control and hosting.
 
 <br/>
 <div style="text-align: center;">
@@ -11,7 +30,6 @@ to checkout visit "https://siva-242006.github.io/Prime-Video/"
     
   </video>
 </div>
-<br/>
 
 ### Design Files
 
@@ -94,12 +112,6 @@ Use these files to complete the implementation:
 </details>
 
 ### Quick Tips
-
-<details close>
-<summary>Click to view</summary>
-
-- To build this project, take a look at the <a href='https://learning.ccbp.in/frontend-development/course?c_id=2f4192f7-7495-49ca-a6ce-6b74005e25f1&s_id=c1dc8b6e-864b-4417-9767-471b9e745405&t_id=416f0cab-8425-413b-9157-c7b4d4ae4467' target="_blank">React Slick</a>, <a href='https://learning.ccbp.in/frontend-development/course?c_id=2f4192f7-7495-49ca-a6ce-6b74005e25f1&s_id=b01fca1c-aa5c-4d79-b81e-0220e7649bd0&t_id=416f0cab-8425-413b-9157-c7b4d4ae4467' target="_blank">React Popup</a> and <a href='https://learning.ccbp.in/frontend-development/course?c_id=2f4192f7-7495-49ca-a6ce-6b74005e25f1&s_id=b6392b63-25f6-4215-be09-9f23ad91d789&t_id=416f0cab-8425-413b-9157-c7b4d4ae4467' target="_blank">React Video Player</a> reading materials
-
 - To style popup content use `.popup-content` class
 
 ```jsx
@@ -115,20 +127,6 @@ Use these files to complete the implementation:
 ```
 
 </details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- One frame of the slider should have 4 thumbnails
-- The thumbnail images in the app should have alt as **thumbnail**
-- The close button in the popup should have the `data-testid` as **closeButton**
-- `IoMdClose` from react-icons should be used for **Close Icon** in the Popup
 
 </details>
 
@@ -151,17 +149,3 @@ Use these files to complete the implementation:
 <br/>
 
 </details>
-
-<details>
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
