@@ -1,8 +1,16 @@
 # Prime Video Clone
 
 A responsive clone of the Prime Video interface built using **React**, **React Slick**, and **React Player**. This project showcases a dynamic movie slider and a popup video player for trailers.
+### Refer to the video below:
 
-![Prime Video Clone Demo]([https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4])
+<br/>
+<div style="text-align: center;">
+  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
+    <source src="https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4" type="video/mp4">
+    
+  </video>
+</div>
+<br/>
 
 ### Features
 
