@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-In this project, let's build a **Prime Video** by applying the concepts we have learned till now.
+Prime Video:
+
+to checkout visit "https://siva-242006.github.io/Prime-Video/"
 
 ### Refer to the video below:
 
@@ -164,8 +165,3 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
-=======
-# Prime-Video
->>>>>>> f7f75e19164247bbb9b7662499de2213c985bc1e
-# Prime-Video
-# Prime-Video
