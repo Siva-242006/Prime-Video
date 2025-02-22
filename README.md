@@ -1,7 +1,6 @@
 # Prime Video Clone
 
 A responsive clone of the Prime Video interface built using **React**, **React Slick**, and **React Player**. This project showcases a dynamic movie slider and a popup video player for trailers.
-### Refer to the video below:
 
 <br/>
 <div style="text-align: center;">
